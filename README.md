@@ -50,13 +50,14 @@
 
 ## 📌 Pinned Projects
 
-- [🔍 Real Estate Analytics](https://github.com/your-username/RealEstateApp)  
+- [🔍 Real Estate Analytics](https://github.com/rahul703-ai/RealEstateApp)  
   End-to-end ML-powered platform for property price prediction, recommendations & visual analytics.
 
-- [🧠 Mental Health Conversational AI](https://github.com/your-username/soul)  
+- [🧠 Mental Health Conversational AI](https://github.com/rahul703-ai/MindCare-An-AI-driven-Chatbot-for-Emotional-Assistance)  
   Fine-tuned a Google T5 model for empathetic and mental-health-focused responses.
 
-- [📊 IPL Data API](https://github.com/your-username/IPL-API)  
+- [📊 IPL Data API](https://github.com/rahul703-ai/ipl_service_API_using_flask
+)  
   Flask-based API and data visualizations from IPL match data.
 
 ---
