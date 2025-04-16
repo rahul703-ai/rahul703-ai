@@ -41,7 +41,7 @@
 
 ---
 <!-- This is a hidden comment -->
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <!-- ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  -->
 
@@ -63,6 +63,6 @@
 
 ---
 
-### 🧮 Contribution Graph
+<!-- ### 🧮 Contribution Graph -->
 
-[![Rahul's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Rahul's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
